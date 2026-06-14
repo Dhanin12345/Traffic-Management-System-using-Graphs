@@ -10,4 +10,5 @@ A road network can be represented as a Graph:
  Vertices (Nodes) → Represent locations, junctions, signals, or cities
  
 Edges → Represent roads connecting two locations
+
 Edge Weight → Represents distance, travel time, traffic level, or cost
