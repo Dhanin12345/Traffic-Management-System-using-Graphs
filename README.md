@@ -12,10 +12,9 @@ A road network can be represented as a Graph:
    2.Edges → Represent roads connecting two locations
 
    3.Edge Weight → Represents distance, travel time, traffic level, or cost
-=====================================
-    TRAFFIC MANAGEMENT SYSTEM
-=====================================
+   
 
+program Output:
 
 ===== Traffic Management System =====
 
